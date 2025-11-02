@@ -1,4 +1,4 @@
-# CS5600-Project2-Tong-Rongjia
+# CS5610-Project2-Tong-Rongjia
 # Fitness Tracker Web App
 
 ## Author
